@@ -12,3 +12,4 @@ hello
 hello 
 这是hot-fix
 拉取1111111
+ssh免密登录
